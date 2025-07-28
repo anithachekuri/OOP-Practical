@@ -1,4 +1,4 @@
-//program using Binary search
+//program using Binary search technique
 #include<stdio.h>
 int binser(int a[],int n, int k)
 {
